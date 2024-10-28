@@ -1,2 +1,2 @@
 # comments
-To manage blog comments using utterances.
+To manage blog comments using github.
